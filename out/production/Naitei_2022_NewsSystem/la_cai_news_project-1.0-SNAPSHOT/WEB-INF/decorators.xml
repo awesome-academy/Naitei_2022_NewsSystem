@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<decorators defaultdir="/master_decorators">
+
+    <!-- apply web template -->
+    <decorators name="web" page="web.jsp">
+        <pattern>/trang-chu</pattern>
+    </decorators>
+
+    <!-- apply admin template -->
+    <decorators name="home" page="admin.jsp">
+        <pattern>/home</pattern>
+    </decorators>
+</decorators>

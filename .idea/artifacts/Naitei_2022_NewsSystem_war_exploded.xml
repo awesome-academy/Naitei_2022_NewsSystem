@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Naitei_2022_NewsSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Naitei_2022_NewsSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Naitei_2022_NewsSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Naitei_2022_NewsSystem" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
